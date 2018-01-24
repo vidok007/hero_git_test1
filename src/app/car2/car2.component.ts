@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class Car2Component implements OnInit {
   
 setCon(){}
+//jvjebvhebvhj
 
   constructor() { }
 
