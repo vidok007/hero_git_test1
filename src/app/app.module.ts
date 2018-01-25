@@ -7,6 +7,7 @@ import { AppComponent } from './app.component';
 import { CarsComponent } from './cars/cars.component';
 import { CarComponent } from './car/car.component';
 import { Car2Component } from './car2/car2.component';
+import { Car3Component } from './car3/car3.component';
 
 
 @NgModule({
@@ -14,7 +15,8 @@ import { Car2Component } from './car2/car2.component';
     AppComponent,
     CarsComponent,
     CarComponent,
-    Car2Component
+    Car2Component,
+    Car3Component
   ],
   imports: [
     BrowserModule,FormsModule
